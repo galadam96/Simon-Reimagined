@@ -3,7 +3,7 @@
 Modern Embedded System Implementation of the Classic Simon Game  
 
 
-#📌 Overview
+## 📌 Overview
 Simon Reimagined is a fully redesigned, modern embedded version of the classic Simon memory game.  
 The project includes:
 
@@ -14,7 +14,7 @@ The project includes:
 - Tinkercad simulation environment
 - Professional, print‑ready project documentation
 
-# 🧠 Features
+## 🧠 Features
 - Four colored buttons with matching LEDs  
 - Unique tone for each color  
 - Randomly generated sequences  
@@ -23,7 +23,7 @@ The project includes:
 - Fully custom PCB and enclosure  
 
 
-# 🛠 Hardware Architecture
+## 🛠 Hardware Architecture
 
 ## Components
 - Arduino Nano (ATmega328P)
@@ -34,7 +34,7 @@ The project includes:
 - Custom circular PCB (designed in EasyEDA)
 - 3D‑printed top/bottom housing + latch + buttons
 
-# 💾 Firmware
+## 💾 Firmware
 
 ## Language & Platform
 - Arduino IDE (C/C++)
@@ -43,7 +43,7 @@ The project includes:
 - Tone generation per color
 
 
-#🧪 Simulation
+## 🧪 Simulation
 Tinkercad simulation includes:
 
 -Button logic
@@ -51,20 +51,21 @@ Tinkercad simulation includes:
 -Buzzer tones
 -Sequence playback
 
-#📄 Documentation
+## 📄 Documentation
 A full, print‑ready A4 documentation package is included
 
 
-#📜 License
+## 📜 License
 This project is released under the MIT License.
 Feel free to use, modify, and build upon it.
 
-#👤 Author
+## 👤 Author
 Adam Gal  
 Embedded Systems Engineer
 Hungary
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
