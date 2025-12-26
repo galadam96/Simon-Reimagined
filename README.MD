@@ -43,6 +43,8 @@ The project includes:
 - Debounced button input
 - Tone generation per color
 
+See the arudino code [here](https://github.com/galadam96/Simon-Reimagined/blob/main/00_Software/SimonGame_V1_4/SimonGame_V1_4.ino)
+
 
 ## 🧪 Simulation
 Tinkercad simulation includes:
@@ -56,6 +58,7 @@ Tinkercad simulation includes:
 
 ## 📄 Documentation
 A full, print‑ready A4 documentation package is included
+Cick [here](https://github.com/galadam96/Simon-Reimagined/blob/main/05_Documentation/Simon_Reimagined_Documentation.pdf) to read it! 
 
 
 ## 📜 License
@@ -68,6 +71,7 @@ Embedded Systems Engineer
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
 
