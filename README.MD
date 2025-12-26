@@ -46,10 +46,10 @@ The project includes:
 ## 🧪 Simulation
 Tinkercad simulation includes:
 
--Button logic
--LED feedback
--Buzzer tones
--Sequence playback
+- Button logic
+- LED feedback
+- Buzzer tones
+- Sequence playback
 
 ## 📄 Documentation
 A full, print‑ready A4 documentation package is included
@@ -66,6 +66,7 @@ Hungary
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
 
