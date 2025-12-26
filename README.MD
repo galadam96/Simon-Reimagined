@@ -62,10 +62,10 @@ Feel free to use, modify, and build upon it.
 ## 👤 Author
 Adam Gal  
 Embedded Systems Engineer
-Hungary
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
 
