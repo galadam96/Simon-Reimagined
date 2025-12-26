@@ -2,6 +2,8 @@
 
 Modern Embedded System Implementation of the Classic Simon Game  
 
+https://www.youtube.com/watch?v=-mwLC2WZaZ8
+[![Watch the video](https://i9.ytimg.com/vi/DPunw0gCDcM/mqdefault.jpg?sqp=CJyTu8oG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgXihWMA8=&rs=AOn4CLDWBEa6EZhVIuztt1mGRZTUlPU-OA)](https://www.youtube.com/watch?v=DPunw0gCDcM)
 
 ## 📌 Overview
 Simon Reimagined is a fully redesigned, modern embedded version of the classic Simon memory game.  
@@ -65,6 +67,7 @@ Embedded Systems Engineer
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
 
