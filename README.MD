@@ -52,6 +52,8 @@ Tinkercad simulation includes:
 - Buzzer tones
 - Sequence playback
 
+![tinkercad](https://raw.githubusercontent.com/galadam96/Simon-Reimagined/refs/heads/main/05_Documentation/IMG/TinkercAD.png)
+
 ## 📄 Documentation
 A full, print‑ready A4 documentation package is included
 
@@ -66,6 +68,7 @@ Embedded Systems Engineer
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
 
 
