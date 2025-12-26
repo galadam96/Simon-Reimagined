@@ -1,4 +1,4 @@
-#🎮 Simon Reimagined  
+# 🎮 Simon Reimagined  
 
 Modern Embedded System Implementation of the Classic Simon Game  
 
@@ -66,4 +66,5 @@ Hungary
 
 ⭐ If you like this project
 Consider giving the repository a star to support my work.
+
 
